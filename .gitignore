@@ -1,0 +1,6 @@
+.idea
+venv
+*.log
+*.csv
+*.h5
+labeled_data
