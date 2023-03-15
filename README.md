@@ -1,4 +1,5 @@
-Telegram bot фильтрующий комментарии
+Telegram bot фильтрующий комментарии.
+
 Технологии:
 1.  Golang
 2.  Python
