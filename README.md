@@ -6,3 +6,4 @@ Telegram bot фильтрующий комментарии.
 3.  MySql
 4.  RabbitMQ
 5.  Docker
+6.  TensorFlow
